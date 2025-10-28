@@ -1,4 +1,4 @@
-### Olá, Eu sou Eduardo Lopes. 🤙🏼
+Olá, Eu sou Eduardo Lopes. 🤙🏼
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-lopes-a28aa7389/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ealopz)
@@ -6,7 +6,7 @@
 
 ![ Edu GitHub stats](https://github-readme-stats.vercel.app/api?username=DevEduGit&icons=true&theme=radical)
 
-### Minhas Tecnologias do Dia a Dia. 🦅
+Minhas Tecnologias do Dia a Dia. 🦅
 
 <div style="display: inline_block"><br>
 <img aling ="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -15,6 +15,6 @@
 <img aling ="center" alt="Go/Golang" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
 </div>
 
-### Sobre Mim
+Sobre Mim 👱🏼
 
 Olá, meu nome é Eduardo, tenho 19 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Uniandrade. Também estou estudando pelos cursos preparatórios da Alura. Estou em busca de oportunidades de estágio ou vagas como Desenvolvedor Júnior, onde eu possa crescer na área de tecnologia e aplicar na prática o que venho aprendendo.
